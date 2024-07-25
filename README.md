@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **e.gouatieu-dongmo@hzdr.de / elvira.dongmo@aims.ac.rw**
 
-- ⚡ Fun fact **I love laugh**
+- ⚡ Fun fact **I love to laugh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/@dongmoelvira" target="blank"><img src="https://img.shields.io/twitter/follow/@dongmoelvira?logo=twitter&style=for-the-badge" alt="@dongmoelvira" /></a> </p>
 
-- 🔭 I’m currently working on **Hydrogen separation techniques**
+- 🔭 I’m currently working on **advancing cutting-edge technology through applied mathematics and computational chemistry**
 
-- 🌱 I’m currently learning **Python and Julia programming languages**
+- 🌱 I’m currently learning **to develop AI-driven solutions**
 
-- 📫 How to reach me **e.gouatieu-dongmo@hzdr.de / elvira.dongmo@aims.ac.rw**
+- 📫 How to reach me **elvira.dongmo@aims.ac.rw / elvira.gouatieu_dongmo@mailbox.tu-dresden.de**
 
 - ⚡ Fun fact **I love to laugh**
 

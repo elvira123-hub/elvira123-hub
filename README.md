@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elvira Dongmo</h1>
-<h3 align="center">A passionate in post-Hartree-Fock methods and coding</h3>
+<h3 align="center">Applied mathematician & computational scientist passionate about numerical modeling, computational methods, and machine learning applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvira123-hub&label=Profile%20views&color=0e75b6&style=flat" alt="elvira123-hub" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **to develop AI-driven solutions**
 
-- 📫 How to reach me **elvira.dongmo@aims.ac.rw / elvira.gouatieu_dongmo@mailbox.tu-dresden.de**
+- 📫 How to reach me **elvira.dongmo@aims.ac.rw / elviragouatieu@gmail.com / elvira.gouatieu_dongmo@mailbox.tu-dresden.de**
 
 - ⚡ Fun fact **I love to laugh**
 

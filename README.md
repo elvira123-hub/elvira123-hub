@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **to develop AI-driven solutions**
 
-- 📫 How to reach me **elvira.dongmo@aims.ac.rw / elviragouatieu@gmail.com / elvira.gouatieu_dongmo@mailbox.tu-dresden.de**
+- 📫 How to reach me **elvira.dongmo@aims.ac.rw / elviragouatieu@gmail.com**
 
 - ⚡ Fun fact **I love to laugh**
 

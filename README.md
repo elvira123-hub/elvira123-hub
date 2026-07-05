@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elvira Dongmo</h1>
-<h3 align="center">Applied mathematician & computational scientist passionate about numerical modeling, computational methods, and machine learning applications.</h3>
+<h3 align="center"> computational scientist & Applied mathematician  passionate about numerical modeling, computational methods, and machine learning applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvira123-hub&label=Profile%20views&color=0e75b6&style=flat" alt="elvira123-hub" /> </p>
 

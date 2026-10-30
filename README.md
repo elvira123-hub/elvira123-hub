@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elvira123-hub&show_icons=true&locale=en"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvira123-hub&" alt="elvira123-hub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvira123-hub&" /></p>
